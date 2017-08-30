@@ -1,1 +1,2 @@
-*.rb linguist-language=Python
+*.el linguist-language=Python
+*.gv linguist-language=Python
